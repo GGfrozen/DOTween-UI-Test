@@ -10,6 +10,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Route.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TaskProject/Scripts/Task2/FoldingDuplicate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TaskProject/Scripts/Task2/CircleQuarterRotation.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -19,6 +21,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CubeController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Route.cs" />
         <option value="$PROJECT_DIR$/Assets/TaskProject/Scripts/ButtonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/TaskProject/Scripts/Task2/CircleQuarterRotation.cs" />
+        <option value="$PROJECT_DIR$/Assets/TaskProject/Scripts/Task2/FoldingDuplicate.cs" />
       </list>
     </option>
   </component>
@@ -64,7 +68,7 @@
       <updated>1601908654227</updated>
       <workItem from="1601908658293" duration="987000" />
       <workItem from="1602168283952" duration="28000" />
-      <workItem from="1602831558869" duration="5618000" />
+      <workItem from="1602831558869" duration="8036000" />
     </task>
     <servers />
   </component>
