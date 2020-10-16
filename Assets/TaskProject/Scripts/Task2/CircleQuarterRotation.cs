@@ -19,8 +19,8 @@ public class CircleQuarterRotation : MonoBehaviour
         var duration = 1f;
         var eulerAngles = new Vector3(0,0,360f);
         var sequence = DOTween.Sequence();
-        sequence.Append(circle1.DORotate(eulerAngles, duration, RotateMode.FastBeyond360))
-            .Join(circle2.DORotate(-eulerAngles, duration, RotateMode.FastBeyond360))
+        sequence.Append(circle1.DORotate(eulerAngles, duration, RotateMode.FastBeyond360).SetEase(Ease.Linear))
+            .Join(circle2.DORotate(-eulerAngles, duration, RotateMode.FastBeyond360).SetEase(Ease.Linear))
             .SetLoops(-1, LoopType.Restart);
     }
 }

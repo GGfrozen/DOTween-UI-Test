@@ -21,8 +21,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CubeController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Route.cs" />
         <option value="$PROJECT_DIR$/Assets/TaskProject/Scripts/ButtonController.cs" />
-        <option value="$PROJECT_DIR$/Assets/TaskProject/Scripts/Task2/CircleQuarterRotation.cs" />
         <option value="$PROJECT_DIR$/Assets/TaskProject/Scripts/Task2/FoldingDuplicate.cs" />
+        <option value="$PROJECT_DIR$/Assets/TaskProject/Scripts/Task2/CircleQuarterRotation.cs" />
       </list>
     </option>
   </component>
@@ -68,7 +68,7 @@
       <updated>1601908654227</updated>
       <workItem from="1601908658293" duration="987000" />
       <workItem from="1602168283952" duration="28000" />
-      <workItem from="1602831558869" duration="8036000" />
+      <workItem from="1602831558869" duration="8394000" />
     </task>
     <servers />
   </component>
