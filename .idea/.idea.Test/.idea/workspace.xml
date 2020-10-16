@@ -8,6 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/TaskProject/Scripts/Task3/UseCards.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Route.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TaskProject/Scripts/Task2/FoldingDuplicate.cs" root0="FORCE_HIGHLIGHTING" />
@@ -23,6 +24,7 @@
         <option value="$PROJECT_DIR$/Assets/TaskProject/Scripts/ButtonController.cs" />
         <option value="$PROJECT_DIR$/Assets/TaskProject/Scripts/Task2/FoldingDuplicate.cs" />
         <option value="$PROJECT_DIR$/Assets/TaskProject/Scripts/Task2/CircleQuarterRotation.cs" />
+        <option value="$PROJECT_DIR$/Assets/TaskProject/Scripts/Task3/UseCards.cs" />
       </list>
     </option>
   </component>
@@ -68,7 +70,7 @@
       <updated>1601908654227</updated>
       <workItem from="1601908658293" duration="987000" />
       <workItem from="1602168283952" duration="28000" />
-      <workItem from="1602831558869" duration="8394000" />
+      <workItem from="1602831558869" duration="9192000" />
     </task>
     <servers />
   </component>

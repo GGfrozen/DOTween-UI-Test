@@ -44,6 +44,9 @@
               <e p="CircleQuarterRotation.cs" t="Include" />
               <e p="FoldingDuplicate.cs" t="Include" />
             </e>
+            <e p="Task3" t="Include">
+              <e p="UseCards.cs" t="Include" />
+            </e>
           </e>
         </e>
         <e p="Test.cs" t="Include" />
